@@ -1,0 +1,44 @@
+.background-container-desktop {
+  background-color: #D6E2F0;
+  height: 768px;
+  width: 1024px;
+  margin: auto;
+  position: absolute;
+}
+
+.container-card-desktop {
+  background-color: #FFFFFF;
+  height: 415px;
+  width: 250px;
+  border-radius: 15px;
+  position: relative;
+  margin-top: 175px;
+  margin-left: 400px;
+}
+
+.qr-code {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  border-radius: 15px;
+}
+
+.p-1{
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  color: #1F3251;
+  font-size: 15px;
+  width: 80%;
+  position: relative;
+  left: 25px;
+  padding-top: 20px;
+}
+
+.p-2 {
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  width: 90%;
+  position: relative;
+  left: 10px;
+}
